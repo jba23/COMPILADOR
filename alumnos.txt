@@ -1,0 +1,6 @@
+ALUMNOS:
+
+	BASILIO AYALA Jonathan Pascual
+	CARHUAMACA CELEDONIO Katherine Liliana
+	HUAYLLA RAMOS Mishelle Elizabeth
+	MINAYA Blas Luis Alberto

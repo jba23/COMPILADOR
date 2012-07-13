@@ -1,0 +1,321 @@
+accept	accepted	aceptar-
+account	accounted	tener-
+achieve	achieved	lograr-
+act	acted	actuar-
+add	added	sumar-
+admit	admited	admitir-
+affect	affected	afectar-
+agree	agreed	estar-
+aim	aimed	apuntar-
+allow	allowed	permitir-
+answer	answered	responder-
+appear	appeared	aparecer-
+apply	applied	aplicar-
+argue	argued	discutir-
+arrange	arranged	arreglar- / consertar-
+arrive	arrived	llegar-
+ask	asked	preguntar-
+attack	attacked	atacar-
+avoid	avoided	evitar-
+base	based	basarse-
+beat	beat	vencer- / apanar-
+become	became	volverse-
+begin	began	empezar-
+believe	believed	creer-
+belong	belonged	pertenecer-
+break	broke	romper-
+build	built	construir-
+burn	burnt	quemar-
+buy	bought	comprar-
+call	called	llamar-
+can	could	poder-
+can	could	poder-
+care	cared	importar-
+carry	carried	cargar- / llevar-
+catch	caught	atrapar-
+cause	caused	causar-
+change	changed	cambiar-
+charge	charged	cobrar-
+check	checked	comprobar- / controlar-
+choose	chose	elejir-
+claim	claimed	reclamar-
+clean	cleaned	limpiar-
+clear	cleared	despejar-
+climb	climbed	trepar-
+close	closed	cerrar-
+collect	collected	recolectar-
+come	came	venir-
+commit	commited	cometer-
+compare	compared	comparar-
+complain	complained	reclamar-
+complete	completed	completar-
+concern	concerned	concernir-
+confirm	confirmed	confirmar-
+connect	connected	conectar-
+consider	considered	considerar-
+consist	consisted	consistir-
+contact	contacted	contactar-
+contain	contained	contenet-
+continue	continued	continuar-
+contribute	contributed	contribuir-
+control	controled	controlar-
+cook	cooked	cocinar-
+copy	copied	copiar-
+correct	corrected	corregir-
+cost	cost	costar-
+count	counted	contar-
+cover	covered	cubrir-
+create	created	crear-
+cross	crossed	cruzar-
+cry	cried	llorar-
+cut	cut	cortar-
+damage	damaged	dañar-
+dance	danced	bailar-
+deal	dealt	repartir-
+decide	decided	decidir-
+deliver	delivered	entregar-
+demand	demanded	exigir-
+deny	denied	denegar-
+depend	depended	depender-
+describe	described	describir-
+design	designed	diseñar-
+destroy	destroyed	destruir-
+develop	developed	desarrollar-
+die	died	morir-
+disappear	disappeared	desaparecer-
+discover	discovered	descubrir-
+discuss	discussed	discutir-
+divide	divided	dividir-
+do	did	hacer-
+draw	drew	dibujar-
+dress	dressed	vestirse-
+drink	drank	beber-
+drive	drove	manejar-
+drop	dropped	dejar caer-
+eat	ate	comer-
+enable	enabled	habilitar-
+encourage	encouraged	dar coraje
+enjoy	enjoyed	disfrutar-
+examine	examined	examinar-
+exist	existed	existir-
+expect	expected	esperar-
+experience	experienced	experimentar-
+explain	explained	explicar-
+express	expressed	expresar-
+extend	extended	ampliar-
+face	faced	encarar-
+fail	failed	reprobar-
+fall	fell	caer-
+fasten	fastened	ajustarse-
+feed	fed	alimentar-
+feel	felt	sentir-
+fight	fought	pelear-
+fill	filled	llenar- / rellenar-
+find	found	encontrar-
+finish	finished	acabar- / terminar-
+fit	fit	quedar- (de ropa)
+fly	flew	volar-
+fold	folded	doblar-
+follow	followed	seguir-
+force	forced	forzar-
+forget	forgot	olvidar-
+forgive	forgave	olvidar-
+form	formed	formar-
+gain	gained	adquirir- / conseguir-
+get	got	obtener- / comprar- / llevar-
+give	gave	dar-
+go	went	ir-
+grow	grew	crecer-
+handle	handled	manejar-
+happen	happened	suceder-
+hate	hated	odiar- / detestar-
+have	had	tener-
+head	headed	dirigirse-
+hear	heard	oir-
+help	helped	ayudar-
+hide	hid	ocultar-
+hit	hit	golpear-
+hold	held	agrarrar- / coger-
+hope	hope	esperar-
+hurt	hurt	herir-
+identify	identified	identificar-
+imagine	imagined	imaginar-
+improve	improved	mejorar-
+include	included	incluir-
+increase	increased	incremetar-
+indicate	indicated	indicar-
+influence	influenced	infuenciar-
+inform	informed	informar-
+intend	intended	tener- la intención
+introduce	introduced	introducir-
+invite	invited	invitar-
+involve	involved	encolver-
+join	joined	unir- / unirse
+jump	jumped	saltar
+keep	kept	quedarse con
+kick	kicked	patear
+kill	killed	matar
+knock	knocked	tocar (la puerta)
+know	knew	saber / conocer
+last	lasted	durar
+laugh	laughed	reir
+lay	laid	echarse
+lead	led	dirigir
+learn	learned / learnt	aprender
+leave	left	dejar /  irse de
+lend	lent	prestar
+let	let	dejar
+lie	lied	mentir
+like	liked	gustar
+limit	limited	limitar
+link	linked	unir / relacionar
+listen	listened	oir
+live	lived	vivir
+look	looked	mirar
+lose	lost	perder
+love	loved	amar
+make	made	hacer
+manage	managed	administrar
+mark	marked	marcar
+matter	mattered	importar
+may	may have + past participle	quizas
+mean	meant	significar / querer decir
+measure	measured	medir
+meet	met	conocer / encontrase con alguien
+mention	mentioned	mencionar
+mind	minded	tener en cuenta
+miss	missed	extrañar / perder (un bus)
+move	moved	mover
+need	needed	necesitar
+notice	noticed	notar
+obtain	obtained	obtener
+occur	occured	ocurrir
+offer	offered	ofrecer
+open	openned	abrir
+order	ordered	ordenar
+own	owned	tener (de propiedad)
+pass	past	pasar
+pay	paid	pagar
+perform	performed	rendir / realizar
+pick	pick	escoger / elegir
+place	placed	colocar
+plan	planned	planear
+play	played	jugar
+point	pointed	apuntar
+prefer	preferred	preferir
+prepare	prepared	preparar
+present	presented	presentar
+press	pressed	presionar
+prevent	prevented	prevenir
+produce	produced	producir
+promise	promised	prometer
+protect	protected	proteger
+prove	proved	probar
+provide	provided	proveer
+publish	published	publicar
+pull	pulled	jalar
+push	pushed	empujar
+put	put	colocar / poner
+raise	raised	levantar
+reach	reached	alcanzar
+read	read	leer
+realize	realized	darse cuenta
+receive	recieved	recibir
+recognize	recognized	reconocer
+record	recorded	grabar
+reduce	reduced	reducir
+refer	referred	referir
+reflect	reflected	reflexionar / reflejar
+refuse	refused	rechazar
+regard	regarded	considerar
+relate	related	estar relacionado
+release	released	soltar / liberar
+remain	remained	permanecer
+remember	remembered	recordar
+remove	removed	remover
+repeat	repeated	repetir
+replace	replaced	reemplazar
+reply	replied	responder
+report	reported	reportar
+represent	represented	representar
+require	required	requerir
+rest	rested	descansar
+result	resulted	resultar
+return	returned	retorner / regresar
+reveal	revealed	revelar
+ring	rang	sonar
+rise	rose	levantar
+roll	rolled	enrollar
+run	ran	correr
+save	saved	guardar
+say	said	decir
+see	saw	ver
+seem	seemed	parecer
+sell	sold	vender
+send	sent	mandar
+separate	separated	separar
+serve	served	servir
+set	set	poner / colocar
+settle	settled	establecerse / saldarse
+shake	shook	sacudir / estrechar la mano
+share	shared	compartir
+shoot	shot	disparar
+should	should have	deberia
+shout	shouted	gritar
+show	showed	mostrar
+shut	shut	cerrar
+sing	sang	cantar
+sit	sat	sentarse
+sleep	slept	dormir
+smile	smiled	sonreir
+sort	sorted	ordenar / clasificar
+sound	sounded	sonar
+speak	spoke	hablar
+stand	stood	pararse
+start	started	comenzar
+state	stated	afirmar
+stay	stayed	quedarse / permanecer
+stick	sticked	pegar
+stop	stopped	parar / detener
+study	studied	estudiar
+succeed	succeeded	tener exito
+suffer	suffered	sufrir
+suggest	suggested	sugerir
+suit	suited	quedar / venirle bien
+supply	supplied	suministrar
+support	supported	mantener
+suppose	supposed	suponer
+survive	survived	sobrevivir
+take	took	tomar / llevar
+talk	talked	hablar
+teach	taught	enseñar
+tell	told	decir
+tend	tended	tener tendencia
+test	tested	probar
+thank	thanked	agradecer
+think	thought	creer
+throw	threw	tirar
+to be used to	was/were used to	estar acostombrado a
+touch	touched	tocar
+train	trained	entrenar
+travel	travelled	viajar
+treat	treated	tratar
+try	tried	intentar
+turn	turned	voltear
+understand	understood	entender
+use	used	usar
+visit	visited	visitar
+vote	voted	votar
+wait	waited	esperar
+walk	walked	caminar
+want	wanted	querer / desear
+warn	warned	advertir
+wash	washed	lavar
+watch	watched	ver
+wear	wore	llevar puesto
+win	won	ganar
+wish	wished	desear
+wonder	wondered	preguntarse
+work	worked	trabajar
+worry	worried	preocupar
+write	wrote	escribir
